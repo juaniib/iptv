@@ -38,7 +38,7 @@ https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="0922" tvg-name="Argentina 12" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Argentina12_2025.svg/2560px-Argentina12_2025.svg.png",Argentina 12
 https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__24.5ARGENTINA1
 #EXTINF:-1 tvg-id="0904" tvg-name="LN+" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/2560px-La-Nacion-Mas-Logo.svg.png",LN+
-https://lanacion-lanacionplus-1-us.samsung.wurl.tv/playlist.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1777165918/ei/_hHtaYm7HZ751sQPuNuxuAg/ip/2804:d55:49a2:5500:a927:63f2:982a:aa84/id/DVZ2rJQb_0g.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-cg51pauxax-jfck.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AUUZDGIoMzxaz1fIFhCNCodN_7Vby5ii5RcpMKsGcdh02wWuTq-K3o4vXZ4dKFrXX8F7TjdZ-Rm9Qgmn/spc/jlWavewjq4OsBpkxm1i94SeA0ooxUq4d3lj1oIqeWIKMuDKweQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2345000/met/1777144319,/mh/Yx/mm/44/mn/sn-cg51pauxax-jfck/ms/lva/mv/m/mvi/2/pl/44/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682/mt/1777143873/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgbKudI8asfVa9BUQEmIg61whedbqYXHJWvUxlkrlMFOsCIQC4RlWMvgXXfoUkCkg-d6ribODCe2HMmEcrFhH7PppCVQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgBNVAsEMKiC-6fI2GEeMZmf17tUWwsicwQzDW0juAgVICIDzONheVdMLbguEwbALSUPjT9QXHQktpkDuErmGZQOzi/playlist/index.m3u8
 
 
 ---
