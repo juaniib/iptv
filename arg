@@ -1,135 +1,133 @@
 #EXTM3U url-tvg="https://impeditor.com/epg/capanueve/capanueve"
-#EXTINF:-1 tvg-id="" tvg-name="AR: A24 HD" tvg-logo="http://xplatinmedia.com:8080/images/e806df1a971ef72875589813682528ed.png" group-title="LATIN 1",AR: A24 HD
+#EXTINF:-1 tvg-id="" tvg-name="A24 HD" tvg-logo="http://xplatinmedia.com:8080/images/e806df1a971ef72875589813682528ed.png",AR: A24 HD
 http://monstertv.live:8080/21205195/56418338/1043622
-#EXTINF:-1 tvg-id="" tvg-name="AR: A24 SD" tvg-logo="http://xplatinmedia.com:8080/images/e806df1a971ef72875589813682528ed.png" group-title="LATIN 1",AR: A24 SD
+#EXTINF:-1 tvg-id="" tvg-name="A24 HD" tvg-logo="http://xplatinmedia.com:8080/images/e806df1a971ef72875589813682528ed.png",AR: A24 SD
 http://monstertv.live:8080/21205195/56418338/1043623
-#EXTINF:-1 tvg-id="" tvg-name="AR: America TV HD" tvg-logo="http://xplatinmedia.com:8080/images/fa3122133ff33b251bcf344617984f93.png" group-title="LATIN 1",AR: America TV HD
+#EXTINF:-1 tvg-id="" tvg-name="America TV" tvg-logo="http://xplatinmedia.com:8080/images/fa3122133ff33b251bcf344617984f93.png",AR: America TV HD
 http://monstertv.live:8080/21205195/56418338/1043624
-#EXTINF:-1 tvg-id="" tvg-name="AR: America TV SD" tvg-logo="http://xplatinmedia.com:8080/images/fa3122133ff33b251bcf344617984f93.png" group-title="LATIN 1",AR: America TV SD
+#EXTINF:-1 tvg-id="" tvg-name="America TV" tvg-logo="http://xplatinmedia.com:8080/images/fa3122133ff33b251bcf344617984f93.png",AR: America TV SD
 http://monstertv.live:8080/21205195/56418338/1043625
-#EXTINF:-1 tvg-id="" tvg-name="AR: C5N FHD" tvg-logo="http://xplatinmedia.com:8080/images/798e1406c8ab9584b83879fcad1e1d4e.png" group-title="LATIN 1",AR: C5N FHD
+#EXTINF:-1 tvg-id="" tvg-name="C5N FHD" tvg-logo="http://xplatinmedia.com:8080/images/798e1406c8ab9584b83879fcad1e1d4e.png",AR: C5N FHD
 http://monstertv.live:8080/21205195/56418338/1043626
-#EXTINF:-1 tvg-id="" tvg-name="AR: C5N HD" tvg-logo="http://xplatinmedia.com:8080/images/798e1406c8ab9584b83879fcad1e1d4e.png" group-title="LATIN 1",AR: C5N HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: C5N HD" tvg-logo="http://xplatinmedia.com:8080/images/798e1406c8ab9584b83879fcad1e1d4e.png",AR: C5N HD
 http://monstertv.live:8080/21205195/56418338/1043627
-#EXTINF:-1 tvg-id="" tvg-name="AR: C5N SD" tvg-logo="http://xplatinmedia.com:8080/images/798e1406c8ab9584b83879fcad1e1d4e.png" group-title="LATIN 1",AR: C5N SD
+#EXTINF:-1 tvg-id="" tvg-name="AR: C5N SD" tvg-logo="http://xplatinmedia.com:8080/images/798e1406c8ab9584b83879fcad1e1d4e.png",AR: C5N SD
 http://monstertv.live:8080/21205195/56418338/1043628
-#EXTINF:-1 tvg-id="" tvg-name="AR: Cadena 103 HD" tvg-logo="http://xplatinmedia.com:8080/images/3301d062631641cb17a5601ec441f99b.png" group-title="LATIN 1",AR: Cadena 103 HD
-http://monstertv.live:8080/21205195/56418338/1043629
-#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 10 Mar del Plata HD" tvg-logo="http://xplatinmedia.com:8080/images/06b70131fbdfff268f4081cf5aed642f.png" group-title="LATIN 1",AR: Canal 10 Mar del Plata HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 10 Mar del Plata HD" tvg-logo="http://xplatinmedia.com:8080/images/06b70131fbdfff268f4081cf5aed642f.png",AR: Canal 10 Mar del Plata HD
 http://monstertv.live:8080/21205195/56418338/1043630
-#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 26 HD" tvg-logo="http://xplatinmedia.com:8080/images/4c3e1d5e330fd5c6153ddfb4bab2235c.png" group-title="LATIN 1",AR: Canal 26 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 26 HD" tvg-logo="http://xplatinmedia.com:8080/images/4c3e1d5e330fd5c6153ddfb4bab2235c.png",AR: Canal 26 HD
 http://monstertv.live:8080/21205195/56418338/1043631
-#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 26 SD" tvg-logo="http://xplatinmedia.com:8080/images/4c3e1d5e330fd5c6153ddfb4bab2235c.png" group-title="LATIN 1",AR: Canal 26 SD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 26 SD" tvg-logo="http://xplatinmedia.com:8080/images/4c3e1d5e330fd5c6153ddfb4bab2235c.png",AR: Canal 26 SD
 http://monstertv.live:8080/21205195/56418338/1043632
-#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 3 Pinamar" tvg-logo="http://xplatinmedia.com:8080/images/a250c8c171ffc4b605f670ae75791861.png" group-title="LATIN 1",AR: Canal 3 Pinamar
+#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 3 Pinamar" tvg-logo="http://xplatinmedia.com:8080/images/a250c8c171ffc4b605f670ae75791861.png",AR: Canal 3 Pinamar
 http://monstertv.live:8080/21205195/56418338/1043633
-#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 7 Jujuy HD" tvg-logo="http://xplatinmedia.com:8080/images/e01722355ec8e7776cdf35e536a7441d.png" group-title="LATIN 1",AR: Canal 7 Jujuy HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 7 Jujuy HD" tvg-logo="http://xplatinmedia.com:8080/images/e01722355ec8e7776cdf35e536a7441d.png",AR: Canal 7 Jujuy HD
 http://monstertv.live:8080/21205195/56418338/1043634
-#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 9 Multivision HD" tvg-logo="http://xplatinmedia.com:8080/images/493e6298b809d50bcedbcd9594e7f1ee.png" group-title="LATIN 1",AR: Canal 9 Multivision HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 9 Multivision HD" tvg-logo="http://xplatinmedia.com:8080/images/493e6298b809d50bcedbcd9594e7f1ee.png",AR: Canal 9 Multivision HD
 http://monstertv.live:8080/21205195/56418338/1043635
-#EXTINF:-1 tvg-id="" tvg-name="AR: Cine Argentino HD" tvg-logo="http://xplatinmedia.com:8080/images/4500720d3c132e1fe09459fe961e2445.png" group-title="LATIN 1",AR: Cine Argentino HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Cine Argentino HD" tvg-logo="http://xplatinmedia.com:8080/images/4500720d3c132e1fe09459fe961e2445.png",AR: Cine Argentino HD
 http://monstertv.live:8080/21205195/56418338/1043636
-#EXTINF:-1 tvg-id="" tvg-name="AR: Cinecanal SD" tvg-logo="http://xplatinmedia.com:8080/images/c4b0fb1cab52625cde8982c00f04979e.png" group-title="LATIN 1",AR: Cinecanal SD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Cinecanal SD" tvg-logo="http://xplatinmedia.com:8080/images/c4b0fb1cab52625cde8982c00f04979e.png",AR: Cinecanal SD
 http://monstertv.live:8080/21205195/56418338/1043637
-#EXTINF:-1 tvg-id="" tvg-name="AR: Cronica HD" tvg-logo="http://xplatinmedia.com:8080/images/a7009253af8c09928ece6c310bd04bf8.png" group-title="LATIN 1",AR: Cronica HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Cronica HD" tvg-logo="http://xplatinmedia.com:8080/images/a7009253af8c09928ece6c310bd04bf8.png",AR: Cronica HD
 http://monstertv.live:8080/21205195/56418338/1043638
-#EXTINF:-1 tvg-id="" tvg-name="AR: Cronica SD" tvg-logo="http://xplatinmedia.com:8080/images/a7009253af8c09928ece6c310bd04bf8.png" group-title="LATIN 1",AR: Cronica SD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Cronica SD" tvg-logo="http://xplatinmedia.com:8080/images/a7009253af8c09928ece6c310bd04bf8.png",AR: Cronica SD
 http://monstertv.live:8080/21205195/56418338/1043639
-#EXTINF:-1 tvg-id="" tvg-name="AR: DeporTV HD" tvg-logo="http://xplatinmedia.com:8080/images/c9d00e2951282e70351c40f863ffab0c.png" group-title="LATIN 1",AR: DeporTV HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: DeporTV HD" tvg-logo="http://xplatinmedia.com:8080/images/c9d00e2951282e70351c40f863ffab0c.png",AR: DeporTV HD
 http://monstertv.live:8080/21205195/56418338/1043640
-#EXTINF:-1 tvg-id="" tvg-name="AR: DirecTV Sports 2 HD" tvg-logo="http://xplatinmedia.com:8080/images/05edce7a53fbc1b716990013788cc28d.png" group-title="LATIN 1",AR: DirecTV Sports 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: DirecTV Sports 2 HD" tvg-logo="http://xplatinmedia.com:8080/images/05edce7a53fbc1b716990013788cc28d.png",AR: DirecTV Sports 2 HD
 http://monstertv.live:8080/21205195/56418338/1043641
-#EXTINF:-1 tvg-id="" tvg-name="AR: DirecTV Sports HD" tvg-logo="http://xplatinmedia.com:8080/images/e68ff4d2c9bb4ad0ac5d53461340fe76.png" group-title="LATIN 1",AR: DirecTV Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: DirecTV Sports HD" tvg-logo="http://xplatinmedia.com:8080/images/e68ff4d2c9bb4ad0ac5d53461340fe76.png",AR: DirecTV Sports HD
 http://monstertv.live:8080/21205195/56418338/1043642
-#EXTINF:-1 tvg-id="" tvg-name="AR: DirecTV Sports Plus HD" tvg-logo="http://xplatinmedia.com:8080/images/e68ff4d2c9bb4ad0ac5d53461340fe76.png" group-title="LATIN 1",AR: DirecTV Sports Plus HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: DirecTV Sports Plus HD" tvg-logo="http://xplatinmedia.com:8080/images/e68ff4d2c9bb4ad0ac5d53461340fe76.png",AR: DirecTV Sports Plus HD
 http://monstertv.live:8080/21205195/56418338/1043643
-#EXTINF:-1 tvg-id="" tvg-name="AR: El Garaje TV SD" tvg-logo="http://xplatinmedia.com:8080/images/f7b5951e6aeeaf571f4e3666a8d75a6e.png" group-title="LATIN 1",AR: El Garaje TV SD
+#EXTINF:-1 tvg-id="" tvg-name="AR: El Garaje TV SD" tvg-logo="http://xplatinmedia.com:8080/images/f7b5951e6aeeaf571f4e3666a8d75a6e.png",AR: El Garaje TV SD
 http://monstertv.live:8080/21205195/56418338/1043644
-#EXTINF:-1 tvg-id="" tvg-name="AR: El Nueve HD" tvg-logo="http://xplatinmedia.com:8080/images/c164931ec477c415cddc33f3bebd0765.png" group-title="LATIN 1",AR: El Nueve HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: El Nueve HD" tvg-logo="http://xplatinmedia.com:8080/images/c164931ec477c415cddc33f3bebd0765.png",AR: El Nueve HD
 http://monstertv.live:8080/21205195/56418338/1043645
-#EXTINF:-1 tvg-id="" tvg-name="AR: El Nueve SD" tvg-logo="http://xplatinmedia.com:8080/images/c164931ec477c415cddc33f3bebd0765.png" group-title="LATIN 1",AR: El Nueve SD
+#EXTINF:-1 tvg-id="" tvg-name="AR: El Nueve SD" tvg-logo="http://xplatinmedia.com:8080/images/c164931ec477c415cddc33f3bebd0765.png",AR: El Nueve SD
 http://monstertv.live:8080/21205195/56418338/1043646
-#EXTINF:-1 tvg-id="" tvg-name="AR: El Trece FHD" tvg-logo="http://xplatinmedia.com:8080/images/0097c9d5f7dd6e222f29045736515d73.png" group-title="LATIN 1",AR: El Trece FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR: El Trece FHD" tvg-logo="http://xplatinmedia.com:8080/images/0097c9d5f7dd6e222f29045736515d73.png",AR: El Trece FHD
 http://monstertv.live:8080/21205195/56418338/1043647
-#EXTINF:-1 tvg-id="" tvg-name="AR: El Trece HD" tvg-logo="http://xplatinmedia.com:8080/images/0097c9d5f7dd6e222f29045736515d73.png" group-title="LATIN 1",AR: El Trece HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: El Trece HD" tvg-logo="http://xplatinmedia.com:8080/images/0097c9d5f7dd6e222f29045736515d73.png",AR: El Trece HD
 http://monstertv.live:8080/21205195/56418338/1043648
-#EXTINF:-1 tvg-id="" tvg-name="AR: El Trece SD" tvg-logo="http://xplatinmedia.com:8080/images/0097c9d5f7dd6e222f29045736515d73.png" group-title="LATIN 1",AR: El Trece SD
+#EXTINF:-1 tvg-id="" tvg-name="AR: El Trece SD" tvg-logo="http://xplatinmedia.com:8080/images/0097c9d5f7dd6e222f29045736515d73.png",AR: El Trece SD
 http://monstertv.live:8080/21205195/56418338/1043649
-#EXTINF:-1 tvg-id="" tvg-name="AR: Encuentro SD" tvg-logo="http://xplatinmedia.com:8080/images/d54f1c57812548a1fe950faa18efcc40.png" group-title="LATIN 1",AR: Encuentro SD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Encuentro SD" tvg-logo="http://xplatinmedia.com:8080/images/d54f1c57812548a1fe950faa18efcc40.png",AR: Encuentro SD
 http://monstertv.live:8080/21205195/56418338/1043650
-#EXTINF:-1 tvg-id="" tvg-name="AR: ESPN 2 HD" tvg-logo="http://xplatinmedia.com:8080/images/ebadfc53dba71bb672b2bc8130bc660d.png" group-title="LATIN 1",AR: ESPN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: ESPN 2 HD" tvg-logo="http://xplatinmedia.com:8080/images/ebadfc53dba71bb672b2bc8130bc660d.png",AR: ESPN 2 HD
 http://monstertv.live:8080/21205195/56418338/1043651
-#EXTINF:-1 tvg-id="" tvg-name="AR: ESPN 3 HD" tvg-logo="http://xplatinmedia.com:8080/images/ceff54dafaf7adb6bd5cc41a45809a21.png" group-title="LATIN 1",AR: ESPN 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: ESPN 3 HD" tvg-logo="http://xplatinmedia.com:8080/images/ceff54dafaf7adb6bd5cc41a45809a21.png",AR: ESPN 3 HD
 http://monstertv.live:8080/21205195/56418338/1043652
-#EXTINF:-1 tvg-id="" tvg-name="AR: ESPN Extra HD" tvg-logo="http://xplatinmedia.com:8080/images/3510937a524f0c8ce030953484c145e6.png" group-title="LATIN 1",AR: ESPN Extra HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: ESPN Extra HD" tvg-logo="http://xplatinmedia.com:8080/images/3510937a524f0c8ce030953484c145e6.png",AR: ESPN Extra HD
 http://monstertv.live:8080/21205195/56418338/1043653
-#EXTINF:-1 tvg-id="" tvg-name="AR: ESPN HD" tvg-logo="http://xplatinmedia.com:8080/images/3341ad72bf3dd205c4af7d7e57b104a3.png" group-title="LATIN 1",AR: ESPN HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: ESPN HD" tvg-logo="http://xplatinmedia.com:8080/images/3341ad72bf3dd205c4af7d7e57b104a3.png",AR: ESPN HD
 http://monstertv.live:8080/21205195/56418338/1043654
-#EXTINF:-1 tvg-id="" tvg-name="AR: ESPN Premium FHD" tvg-logo="http://xplatinmedia.com:8080/images/64ded0ab665d1c693e35b1b20fe4f664.png" group-title="LATIN 1",AR: ESPN Premium FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR: ESPN Premium FHD" tvg-logo="http://xplatinmedia.com:8080/images/64ded0ab665d1c693e35b1b20fe4f664.png",AR: ESPN Premium FHD
 http://monstertv.live:8080/21205195/56418338/1043655
-#EXTINF:-1 tvg-id="" tvg-name="AR: ESPN Premium HD" tvg-logo="http://xplatinmedia.com:8080/images/64ded0ab665d1c693e35b1b20fe4f664.png" group-title="LATIN 1",AR: ESPN Premium HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: ESPN Premium HD" tvg-logo="http://xplatinmedia.com:8080/images/64ded0ab665d1c693e35b1b20fe4f664.png",AR: ESPN Premium HD
 http://monstertv.live:8080/21205195/56418338/1043656
-#EXTINF:-1 tvg-id="" tvg-name="AR: ESPN Premium SD" tvg-logo="http://xplatinmedia.com:8080/images/64ded0ab665d1c693e35b1b20fe4f664.png" group-title="LATIN 1",AR: ESPN Premium SD
+#EXTINF:-1 tvg-id="" tvg-name="AR: ESPN Premium SD" tvg-logo="http://xplatinmedia.com:8080/images/64ded0ab665d1c693e35b1b20fe4f664.png",AR: ESPN Premium SD
 http://monstertv.live:8080/21205195/56418338/1043657
-#EXTINF:-1 tvg-id="" tvg-name="AR: Fox Sports 2 HD" tvg-logo="http://xplatinmedia.com:8080/images/10eff018561618cdfcb2fd55f206498a.png" group-title="LATIN 1",AR: Fox Sports 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Fox Sports 2 HD" tvg-logo="http://xplatinmedia.com:8080/images/10eff018561618cdfcb2fd55f206498a.png",AR: Fox Sports 2 HD
 http://monstertv.live:8080/21205195/56418338/1043658
-#EXTINF:-1 tvg-id="" tvg-name="AR: Fox Sports 3 HD" tvg-logo="http://xplatinmedia.com:8080/images/a086710bb7d0e05df16a7423d168dd45.png" group-title="LATIN 1",AR: Fox Sports 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Fox Sports 3 HD" tvg-logo="http://xplatinmedia.com:8080/images/a086710bb7d0e05df16a7423d168dd45.png",AR: Fox Sports 3 HD
 http://monstertv.live:8080/21205195/56418338/1043659
-#EXTINF:-1 tvg-id="" tvg-name="AR: Fox Sports HD" tvg-logo="http://xplatinmedia.com:8080/images/fbdd17f23a86494350bc195562abc382.png" group-title="LATIN 1",AR: Fox Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Fox Sports HD" tvg-logo="http://xplatinmedia.com:8080/images/fbdd17f23a86494350bc195562abc382.png",AR: Fox Sports HD
 http://monstertv.live:8080/21205195/56418338/1043660
-#EXTINF:-1 tvg-id="" tvg-name="AR: Fox Sports Premium HD" tvg-logo="http://xplatinmedia.com:8080/images/3788424155ebbf80479a9b9d9d5bdd20.png" group-title="LATIN 1",AR: Fox Sports Premium HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Fox Sports Premium HD" tvg-logo="http://xplatinmedia.com:8080/images/3788424155ebbf80479a9b9d9d5bdd20.png",AR: Fox Sports Premium HD
 http://monstertv.live:8080/21205195/56418338/1043661
-#EXTINF:-1 tvg-id="" tvg-name="AR: La Nacion HD" tvg-logo="http://xplatinmedia.com:8080/images/d9699a69073240b95c3a5d56bb6f2400.png" group-title="LATIN 1",AR: La Nacion HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: La Nacion HD" tvg-logo="http://xplatinmedia.com:8080/images/d9699a69073240b95c3a5d56bb6f2400.png",AR: La Nacion HD
 http://monstertv.live:8080/21205195/56418338/1043662
-#EXTINF:-1 tvg-id="" tvg-name="AR: La Nacion SD" tvg-logo="http://xplatinmedia.com:8080/images/d9699a69073240b95c3a5d56bb6f2400.png" group-title="LATIN 1",AR: La Nacion SD
+#EXTINF:-1 tvg-id="" tvg-name="AR: La Nacion SD" tvg-logo="http://xplatinmedia.com:8080/images/d9699a69073240b95c3a5d56bb6f2400.png",AR: La Nacion SD
 http://monstertv.live:8080/21205195/56418338/1043663
-#EXTINF:-1 tvg-id="" tvg-name="AR: Music Top HD" tvg-logo="http://xplatinmedia.com:8080/images/26ae8b949667685cad5b4481e5b6e1dc.png" group-title="LATIN 1",AR: Music Top HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Music Top HD" tvg-logo="http://xplatinmedia.com:8080/images/26ae8b949667685cad5b4481e5b6e1dc.png",AR: Music Top HD
 http://monstertv.live:8080/21205195/56418338/1043664
-#EXTINF:-1 tvg-id="" tvg-name="AR: NET TV HD" tvg-logo="http://xplatinmedia.com:8080/images/2d4d319fe80fdc6a05870bf28891b462.png" group-title="LATIN 1",AR: NET TV HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: NET TV HD" tvg-logo="http://xplatinmedia.com:8080/images/2d4d319fe80fdc6a05870bf28891b462.png",AR: NET TV HD
 http://monstertv.live:8080/21205195/56418338/1043665
-#EXTINF:-1 tvg-id="" tvg-name="AR: Pakapaka SD" tvg-logo="http://xplatinmedia.com:8080/images/8861bf12e3c091d38934a0281da9a1e1.png" group-title="LATIN 1",AR: Pakapaka SD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Pakapaka SD" tvg-logo="http://xplatinmedia.com:8080/images/8861bf12e3c091d38934a0281da9a1e1.png",AR: Pakapaka SD
 http://monstertv.live:8080/21205195/56418338/1043666
-#EXTINF:-1 tvg-id="" tvg-name="AR: Quiero Musica HD" tvg-logo="http://xplatinmedia.com:8080/images/be61ca69366a55cb50e5dc266120d7b0.png" group-title="LATIN 1",AR: Quiero Musica HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Quiero Musica HD" tvg-logo="http://xplatinmedia.com:8080/images/be61ca69366a55cb50e5dc266120d7b0.png",AR: Quiero Musica HD
 http://monstertv.live:8080/21205195/56418338/1043667
-#EXTINF:-1 tvg-id="" tvg-name="AR: RTN SD" tvg-logo="http://xplatinmedia.com:8080/images/6124e1f737e6d6b074489b9dbd54b6aa.png" group-title="LATIN 1",AR: RTN SD
+#EXTINF:-1 tvg-id="" tvg-name="AR: RTN SD" tvg-logo="http://xplatinmedia.com:8080/images/6124e1f737e6d6b074489b9dbd54b6aa.png",AR: RTN SD
 http://monstertv.live:8080/21205195/56418338/1043668
-#EXTINF:-1 tvg-id="" tvg-name="AR: Telefe HD" tvg-logo="http://xplatinmedia.com:8080/images/d64a45008d5338c3446a509e8d515c3c.png" group-title="LATIN 1",AR: Telefe HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Telefe HD" tvg-logo="http://xplatinmedia.com:8080/images/d64a45008d5338c3446a509e8d515c3c.png",AR: Telefe HD
 http://monstertv.live:8080/21205195/56418338/1043669
-#EXTINF:-1 tvg-id="" tvg-name="AR: Telefe Internacional SD" tvg-logo="http://xplatinmedia.com:8080/images/d64a45008d5338c3446a509e8d515c3c.png" group-title="LATIN 1",AR: Telefe Internacional SD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Telefe Internacional SD" tvg-logo="http://xplatinmedia.com:8080/images/d64a45008d5338c3446a509e8d515c3c.png",AR: Telefe Internacional SD
 http://monstertv.live:8080/21205195/56418338/1043670
-#EXTINF:-1 tvg-id="" tvg-name="AR: Telemax HD" tvg-logo="http://xplatinmedia.com:8080/images/688fa67ac6ccfc99b82cfe89995210da.png" group-title="LATIN 1",AR: Telemax HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Telemax HD" tvg-logo="http://xplatinmedia.com:8080/images/688fa67ac6ccfc99b82cfe89995210da.png",AR: Telemax HD
 http://monstertv.live:8080/21205195/56418338/1043671
-#EXTINF:-1 tvg-id="" tvg-name="AR: Tierramia TV HD" tvg-logo="http://xplatinmedia.com:8080/images/38d50b403bc3f23f89cca9165a5becc9.png" group-title="LATIN 1",AR: Tierramia TV HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Tierramia TV HD" tvg-logo="http://xplatinmedia.com:8080/images/38d50b403bc3f23f89cca9165a5becc9.png",AR: Tierramia TV HD
 http://monstertv.live:8080/21205195/56418338/1043672
-#EXTINF:-1 tvg-id="" tvg-name="AR: TNT Sports FHD" tvg-logo="http://xplatinmedia.com:8080/images/5819d50621ec4b62696747589caf55d2.png" group-title="LATIN 1",AR: TNT Sports FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR: TNT Sports FHD" tvg-logo="http://xplatinmedia.com:8080/images/5819d50621ec4b62696747589caf55d2.png",AR: TNT Sports FHD
 http://monstertv.live:8080/21205195/56418338/1043673
-#EXTINF:-1 tvg-id="" tvg-name="AR: TNT Sports HD" tvg-logo="http://xplatinmedia.com:8080/images/5819d50621ec4b62696747589caf55d2.png" group-title="LATIN 1",AR: TNT Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: TNT Sports HD" tvg-logo="http://xplatinmedia.com:8080/images/5819d50621ec4b62696747589caf55d2.png",AR: TNT Sports HD
 http://monstertv.live:8080/21205195/56418338/1043674
-#EXTINF:-1 tvg-id="" tvg-name="AR: TNT Sports SD" tvg-logo="http://xplatinmedia.com:8080/images/5819d50621ec4b62696747589caf55d2.png" group-title="LATIN 1",AR: TNT Sports SD
+#EXTINF:-1 tvg-id="" tvg-name="AR: TNT Sports SD" tvg-logo="http://xplatinmedia.com:8080/images/5819d50621ec4b62696747589caf55d2.png",AR: TNT Sports SD
 http://monstertv.live:8080/21205195/56418338/1043675
-#EXTINF:-1 tvg-id="" tvg-name="AR: Todo Noticias FHD" tvg-logo="http://xplatinmedia.com:8080/images/8d4b795422e7fa55b022afa8ad4452e7.png" group-title="LATIN 1",AR: Todo Noticias FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Todo Noticias FHD" tvg-logo="http://xplatinmedia.com:8080/images/8d4b795422e7fa55b022afa8ad4452e7.png",AR: Todo Noticias FHD
 http://monstertv.live:8080/21205195/56418338/1043676
-#EXTINF:-1 tvg-id="" tvg-name="AR: Todo Noticias HD" tvg-logo="http://xplatinmedia.com:8080/images/8d4b795422e7fa55b022afa8ad4452e7.png" group-title="LATIN 1",AR: Todo Noticias HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Todo Noticias HD" tvg-logo="http://xplatinmedia.com:8080/images/8d4b795422e7fa55b022afa8ad4452e7.png",AR: Todo Noticias HD
 http://monstertv.live:8080/21205195/56418338/1043677
-#EXTINF:-1 tvg-id="" tvg-name="AR: TV Pública HD" tvg-logo="http://xplatinmedia.com:8080/images/3c91c15a02bed0940cbc975e19483710.png" group-title="LATIN 1",AR: TV Pública HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: TV Pública HD" tvg-logo="http://xplatinmedia.com:8080/images/3c91c15a02bed0940cbc975e19483710.png",AR: TV Pública HD
 http://monstertv.live:8080/21205195/56418338/1043678
-#EXTINF:-1 tvg-id="" tvg-name="AR: TV Pública SD" tvg-logo="http://xplatinmedia.com:8080/images/3c91c15a02bed0940cbc975e19483710.png" group-title="LATIN 1",AR: TV Pública SD
+#EXTINF:-1 tvg-id="" tvg-name="AR: TV Pública SD" tvg-logo="http://xplatinmedia.com:8080/images/3c91c15a02bed0940cbc975e19483710.png",AR: TV Pública SD
 http://monstertv.live:8080/21205195/56418338/1043679
-#EXTINF:-1 tvg-id="" tvg-name="AR: TyC SPORT PLAY 1" tvg-logo="http://xplatinmedia.com:8080/images/10003df43502634612255e3cac8cf2d0.png" group-title="LATIN 1",AR: TyC SPORT PLAY 1
+#EXTINF:-1 tvg-id="" tvg-name="AR: TyC SPORT PLAY 1" tvg-logo="http://xplatinmedia.com:8080/images/10003df43502634612255e3cac8cf2d0.png",AR: TyC SPORT PLAY 1
 http://monstertv.live:8080/21205195/56418338/1043680
-#EXTINF:-1 tvg-id="" tvg-name="AR: TyC SPORT PLAY 3" tvg-logo="http://xplatinmedia.com:8080/images/10003df43502634612255e3cac8cf2d0.png" group-title="LATIN 1",AR: TyC SPORT PLAY 3
+#EXTINF:-1 tvg-id="" tvg-name="AR: TyC SPORT PLAY 3" tvg-logo="http://xplatinmedia.com:8080/images/10003df43502634612255e3cac8cf2d0.png",AR: TyC SPORT PLAY 3
 http://monstertv.live:8080/21205195/56418338/1043681
-#EXTINF:-1 tvg-id="" tvg-name="AR: TyC SPORT PLAY 4" tvg-logo="http://xplatinmedia.com:8080/images/10003df43502634612255e3cac8cf2d0.png" group-title="LATIN 1",AR: TyC SPORT PLAY 4
+#EXTINF:-1 tvg-id="" tvg-name="AR: TyC SPORT PLAY 4" tvg-logo="http://xplatinmedia.com:8080/images/10003df43502634612255e3cac8cf2d0.png",AR: TyC SPORT PLAY 4
 http://monstertv.live:8080/21205195/56418338/1043682
-#EXTINF:-1 tvg-id="" tvg-name="AR: TyC SPORT PLAY 6" tvg-logo="http://xplatinmedia.com:8080/images/10003df43502634612255e3cac8cf2d0.png" group-title="LATIN 1",AR: TyC SPORT PLAY 6
+#EXTINF:-1 tvg-id="" tvg-name="AR: TyC SPORT PLAY 6" tvg-logo="http://xplatinmedia.com:8080/images/10003df43502634612255e3cac8cf2d0.png",AR: TyC SPORT PLAY 6
 http://monstertv.live:8080/21205195/56418338/1043683
-#EXTINF:-1 tvg-id="" tvg-name="AR: TyC Sports HD" tvg-logo="http://xplatinmedia.com:8080/images/10003df43502634612255e3cac8cf2d0.png" group-title="LATIN 1",AR: TyC Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: TyC Sports HD" tvg-logo="http://xplatinmedia.com:8080/images/10003df43502634612255e3cac8cf2d0.png",AR: TyC Sports HD
 http://monstertv.live:8080/21205195/56418338/1043684
-#EXTINF:-1 tvg-id="" tvg-name="AR: TyC Sports Internacional HD" tvg-logo="http://xplatinmedia.com:8080/images/10003df43502634612255e3cac8cf2d0.png" group-title="LATIN 1",AR: TyC Sports Internacional HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: TyC Sports Internacional HD" tvg-logo="http://xplatinmedia.com:8080/images/10003df43502634612255e3cac8cf2d0.png",AR: TyC Sports Internacional HD
 http://monstertv.live:8080/21205195/56418338/1043685
-#EXTINF:-1 tvg-id="" tvg-name="AR: TyC SPORTS PLAY" tvg-logo="http://xplatinmedia.com:8080/images/10003df43502634612255e3cac8cf2d0.png" group-title="LATIN 1",AR: TyC SPORTS PLAY
+#EXTINF:-1 tvg-id="" tvg-name="AR: TyC SPORTS PLAY" tvg-logo="http://xplatinmedia.com:8080/images/10003df43502634612255e3cac8cf2d0.png",AR: TyC SPORTS PLAY
 http://monstertv.live:8080/21205195/56418338/1043686
-#EXTINF:-1 tvg-id="" tvg-name="AR: TyC Sports SD" tvg-logo="http://xplatinmedia.com:8080/images/10003df43502634612255e3cac8cf2d0.png" group-title="LATIN 1",AR: TyC Sports SD
+#EXTINF:-1 tvg-id="" tvg-name="AR: TyC Sports SD" tvg-logo="http://xplatinmedia.com:8080/images/10003df43502634612255e3cac8cf2d0.png",AR: TyC Sports SD
 http://monstertv.live:8080/21205195/56418338/1043687
-#EXTINF:-1 tvg-id="" tvg-name="AR: Volver SD" tvg-logo="https://www.ipuntotv.com/IMAGES/Volver-logo-nuevo-2016.png" group-title="LATIN 1",AR: Volver SD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Volver SD" tvg-logo="https://www.ipuntotv.com/IMAGES/Volver-logo-nuevo-2016.png",AR: Volver SD
 http://monstertv.live:8080/21205195/56418338/1043688
