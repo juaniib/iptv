@@ -1,133 +1,16 @@
 #EXTM3U url-tvg="https://impeditor.com/epg/capanueve/capanueve"
-#EXTINF:-1 tvg-id="0971" tvg-name="A24" tvg-logo="http://xplatinmedia.com:8080/images/e806df1a971ef72875589813682528ed.png",AR: A24 HD
-http://monstertv.live:8080/21205195/56418338/1043622
-#EXTINF:-1 tvg-id="0971" tvg-name="A24" tvg-logo="http://xplatinmedia.com:8080/images/e806df1a971ef72875589813682528ed.png",AR: A24 SD
-http://monstertv.live:8080/21205195/56418338/1043623
-#EXTINF:-1 tvg-id="0935" tvg-name="América TV • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/fa3122133ff33b251bcf344617984f93.png",AR: America TV HD
-http://monstertv.live:8080/21205195/56418338/1043624
-#EXTINF:-1 tvg-id="0935" tvg-name="América TV • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/fa3122133ff33b251bcf344617984f93.png",AR: America TV SD
-http://monstertv.live:8080/21205195/56418338/1043625
-#EXTINF:-1 tvg-id="0932" tvg-name="C5N Canal 5 Noticias • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/798e1406c8ab9584b83879fcad1e1d4e.png",AR: C5N FHD
-http://monstertv.live:8080/21205195/56418338/1043626
-#EXTINF:-1 tvg-id="0932" tvg-name="C5N Canal 5 Noticias • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/798e1406c8ab9584b83879fcad1e1d4e.png",AR: C5N HD
-http://monstertv.live:8080/21205195/56418338/1043627
-#EXTINF:-1 tvg-id="0932" tvg-name="C5N Canal 5 Noticias • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/798e1406c8ab9584b83879fcad1e1d4e.png",AR: C5N SD
-http://monstertv.live:8080/21205195/56418338/1043628
-#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 10 Mar del Plata HD" tvg-logo="http://xplatinmedia.com:8080/images/06b70131fbdfff268f4081cf5aed642f.png",AR: Canal 10 Mar del Plata HD
-http://monstertv.live:8080/21205195/56418338/1043630
-#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26 • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/4c3e1d5e330fd5c6153ddfb4bab2235c.png",AR: Canal 26 HD
-http://monstertv.live:8080/21205195/56418338/1043631
-#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26 • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/4c3e1d5e330fd5c6153ddfb4bab2235c.png",AR: Canal 26 SD
-http://monstertv.live:8080/21205195/56418338/1043632
-#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 3 Pinamar" tvg-logo="http://xplatinmedia.com:8080/images/a250c8c171ffc4b605f670ae75791861.png",AR: Canal 3 Pinamar
-http://monstertv.live:8080/21205195/56418338/1043633
-#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 7 Jujuy HD" tvg-logo="http://xplatinmedia.com:8080/images/e01722355ec8e7776cdf35e536a7441d.png",AR: Canal 7 Jujuy HD
-http://monstertv.live:8080/21205195/56418338/1043634
-#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/493e6298b809d50bcedbcd9594e7f1ee.png",AR: Canal 9 Multivision HD
-http://monstertv.live:8080/21205195/56418338/1043635
-#EXTINF:-1 tvg-id="" tvg-name="AR: Cine Argentino HD" tvg-logo="http://xplatinmedia.com:8080/images/4500720d3c132e1fe09459fe961e2445.png",AR: Cine Argentino HD
-http://monstertv.live:8080/21205195/56418338/1043636
-#EXTINF:-1 tvg-id="0846" tvg-name="Cinecanal • Feed 1" tvg-logo="http://xplatinmedia.com:8080/images/c4b0fb1cab52625cde8982c00f04979e.png",AR: Cinecanal SD
-http://monstertv.live:8080/21205195/56418338/1043637
-#EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/a7009253af8c09928ece6c310bd04bf8.png",AR: Cronica HD
-http://monstertv.live:8080/21205195/56418338/1043638
-#EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/a7009253af8c09928ece6c310bd04bf8.png",AR: Cronica SD
-http://monstertv.live:8080/21205195/56418338/1043639
-#EXTINF:-1 tvg-id="0927" tvg-name="DeporTV • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/c9d00e2951282e70351c40f863ffab0c.png",AR: DeporTV HD
-http://monstertv.live:8080/21205195/56418338/1043640
-#EXTINF:-1 tvg-id="0432" tvg-name="DSports 2 • América Latina" tvg-logo="http://xplatinmedia.com:8080/images/05edce7a53fbc1b716990013788cc28d.png",AR: DirecTV Sports 2 HD
-http://monstertv.live:8080/21205195/56418338/1043641
-#EXTINF:-1 tvg-id="0431" tvg-name="DSports • América Latina" tvg-logo="http://xplatinmedia.com:8080/images/e68ff4d2c9bb4ad0ac5d53461340fe76.png",AR: DirecTV Sports HD
-http://monstertv.live:8080/21205195/56418338/1043642
-#EXTINF:-1 tvg-id="0433" tvg-name="DSports Plus • América Latina" tvg-logo="http://xplatinmedia.com:8080/images/e68ff4d2c9bb4ad0ac5d53461340fe76.png",AR: DirecTV Sports Plus HD
-http://monstertv.live:8080/21205195/56418338/1043643
-#EXTINF:-1 tvg-id="0648" tvg-name="El Garage TV" tvg-logo="http://xplatinmedia.com:8080/images/f7b5951e6aeeaf571f4e3666a8d75a6e.png",AR: El Garaje TV SD
-http://monstertv.live:8080/21205195/56418338/1043644
-#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/c164931ec477c415cddc33f3bebd0765.png",AR: El Nueve HD
-http://monstertv.live:8080/21205195/56418338/1043645
-#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/c164931ec477c415cddc33f3bebd0765.png",AR: El Nueve SD
-http://monstertv.live:8080/21205195/56418338/1043646
-#EXTINF:-1 tvg-id="0915" tvg-name="El Trece • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/0097c9d5f7dd6e222f29045736515d73.png",AR: El Trece FHD
-http://monstertv.live:8080/21205195/56418338/1043647
-#EXTINF:-1 tvg-id="0915" tvg-name="El Trece • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/0097c9d5f7dd6e222f29045736515d73.png",AR: El Trece HD
-http://monstertv.live:8080/21205195/56418338/1043648
-#EXTINF:-1 tvg-id="0915" tvg-name="El Trece • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/0097c9d5f7dd6e222f29045736515d73.png",AR: El Trece SD
-http://monstertv.live:8080/21205195/56418338/1043649
-#EXTINF:-1 tvg-id="0920" tvg-name="Encuentro • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/d54f1c57812548a1fe950faa18efcc40.png",AR: Encuentro SD
-http://monstertv.live:8080/21205195/56418338/1043650
-#EXTINF:-1 tvg-id="1412" tvg-name="ESPN 2 • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/ebadfc53dba71bb672b2bc8130bc660d.png",AR: ESPN 2 HD
-http://monstertv.live:8080/21205195/56418338/1043651
-#EXTINF:-1 tvg-id="2413" tvg-name="ESPN 3 • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/ceff54dafaf7adb6bd5cc41a45809a21.png",AR: ESPN 3 HD
-http://monstertv.live:8080/21205195/56418338/1043652
-#EXTINF:-1 tvg-id="1418" tvg-name="ESPN Premium • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/3510937a524f0c8ce030953484c145e6.png",AR: ESPN Extra HD
-http://monstertv.live:8080/21205195/56418338/1043653
-#EXTINF:-1 tvg-id="1411" tvg-name="ESPN • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/3341ad72bf3dd205c4af7d7e57b104a3.png",AR: ESPN HD
-http://monstertv.live:8080/21205195/56418338/1043654
-#EXTINF:-1 tvg-id="1418" tvg-name="ESPN Premium • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/64ded0ab665d1c693e35b1b20fe4f664.png",AR: ESPN Premium FHD
-http://monstertv.live:8080/21205195/56418338/1043655
-#EXTINF:-1 tvg-id="1418" tvg-name="ESPN Premium • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/64ded0ab665d1c693e35b1b20fe4f664.png",AR: ESPN Premium HD
-http://monstertv.live:8080/21205195/56418338/1043656
-#EXTINF:-1 tvg-id="1418" tvg-name="ESPN Premium • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/64ded0ab665d1c693e35b1b20fe4f664.png",AR: ESPN Premium SD
-http://monstertv.live:8080/21205195/56418338/1043657
-#EXTINF:-1 tvg-id="1437" tvg-name="Fox Sports 2 • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/10eff018561618cdfcb2fd55f206498a.png",AR: Fox Sports 2 HD
-http://monstertv.live:8080/21205195/56418338/1043658
-#EXTINF:-1 tvg-id="1438" tvg-name="Fox Sports 3 • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/a086710bb7d0e05df16a7423d168dd45.png",AR: Fox Sports 3 HD
-http://monstertv.live:8080/21205195/56418338/1043659
-#EXTINF:-1 tvg-id="1436" tvg-name="Fox Sports • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/fbdd17f23a86494350bc195562abc382.png",AR: Fox Sports HD
-http://monstertv.live:8080/21205195/56418338/1043660
-#EXTINF:-1 tvg-id="1436" tvg-name="Fox Sports • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/3788424155ebbf80479a9b9d9d5bdd20.png",AR: Fox Sports Premium HD
-http://monstertv.live:8080/21205195/56418338/1043661
-#EXTINF:-1 tvg-id="0904" tvg-name="LN Más • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/d9699a69073240b95c3a5d56bb6f2400.png",AR: La Nacion HD
-http://monstertv.live:8080/21205195/56418338/1043662
-#EXTINF:-1 tvg-id="0904" tvg-name="LN Más • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/d9699a69073240b95c3a5d56bb6f2400.png",AR: La Nacion SD
-http://monstertv.live:8080/21205195/56418338/1043663
-#EXTINF:-1 tvg-id="0543" tvg-name="Music TOP" tvg-logo="http://xplatinmedia.com:8080/images/26ae8b949667685cad5b4481e5b6e1dc.png",AR: Music Top HD
-http://monstertv.live:8080/21205195/56418338/1043664
-#EXTINF:-1 tvg-id="0939" tvg-name="Net TV • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/2d4d319fe80fdc6a05870bf28891b462.png",AR: NET TV HD
-http://monstertv.live:8080/21205195/56418338/1043665
-#EXTINF:-1 tvg-id="0312" tvg-name="Pakapaka" tvg-logo="http://xplatinmedia.com:8080/images/8861bf12e3c091d38934a0281da9a1e1.png",AR: Pakapaka SD
-http://monstertv.live:8080/21205195/56418338/1043666
-#EXTINF:-1 tvg-id="0510" tvg-name="Quiero Música en mi Idioma" tvg-logo="http://xplatinmedia.com:8080/images/be61ca69366a55cb50e5dc266120d7b0.png",AR: Quiero Musica HD
-http://monstertv.live:8080/21205195/56418338/1043667
-#EXTINF:-1 tvg-id="" tvg-name="AR: RTN SD" tvg-logo="http://xplatinmedia.com:8080/images/6124e1f737e6d6b074489b9dbd54b6aa.png",AR: RTN SD
-http://monstertv.live:8080/21205195/56418338/1043668
-#EXTINF:-1 tvg-id="0909" tvg-name="Telefe • Buenos Aires, Argentina" tvg-logo="http://xplatinmedia.com:8080/images/d64a45008d5338c3446a509e8d515c3c.png",AR: Telefe HD
-http://monstertv.live:8080/21205195/56418338/1043669
-#EXTINF:-1 tvg-id="4909" tvg-name="Telefe • Internacional" tvg-logo="http://xplatinmedia.com:8080/images/d64a45008d5338c3446a509e8d515c3c.png",AR: Telefe Internacional SD
-http://monstertv.live:8080/21205195/56418338/1043670
-#EXTINF:-1 tvg-id="0937" tvg-name="Telemax • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/688fa67ac6ccfc99b82cfe89995210da.png",AR: Telemax HD
-http://monstertv.live:8080/21205195/56418338/1043671
-#EXTINF:-1 tvg-id="0542" tvg-name="TierraMia" tvg-logo="http://xplatinmedia.com:8080/images/38d50b403bc3f23f89cca9165a5becc9.png",AR: Tierramia TV HD
-http://monstertv.live:8080/21205195/56418338/1043672
-#EXTINF:-1 tvg-id="0404" tvg-name="TNT Sports Premium Argentina" tvg-logo="http://xplatinmedia.com:8080/images/5819d50621ec4b62696747589caf55d2.png",AR: TNT Sports FHD
-http://monstertv.live:8080/21205195/56418338/1043673
-#EXTINF:-1 tvg-id="0404" tvg-name="TNT Sports Premium Argentina" tvg-logo="http://xplatinmedia.com:8080/images/5819d50621ec4b62696747589caf55d2.png",AR: TNT Sports HD
-http://monstertv.live:8080/21205195/56418338/1043674
-#EXTINF:-1 tvg-id="0404" tvg-name="TNT Sports Premium Argentina" tvg-logo="http://xplatinmedia.com:8080/images/5819d50621ec4b62696747589caf55d2.png",AR: TNT Sports SD
-http://monstertv.live:8080/21205195/56418338/1043675
-#EXTINF:-1 tvg-id="0905" tvg-name="TN • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/8d4b795422e7fa55b022afa8ad4452e7.png",AR: Todo Noticias FHD
-http://monstertv.live:8080/21205195/56418338/1043676
-#EXTINF:-1 tvg-id="0905" tvg-name="TN • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/8d4b795422e7fa55b022afa8ad4452e7.png",AR: Todo Noticias HD
-http://monstertv.live:8080/21205195/56418338/1043677
-#EXTINF:-1 tvg-id="0903" tvg-name="TV Pública • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/3c91c15a02bed0940cbc975e19483710.png",AR: TV Pública HD
-http://monstertv.live:8080/21205195/56418338/1043678
-#EXTINF:-1 tvg-id="0903" tvg-name="TV Pública • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/3c91c15a02bed0940cbc975e19483710.png",AR: TV Pública SD
-http://monstertv.live:8080/21205195/56418338/1043679
-#EXTINF:-1 tvg-id="1409" tvg-name="TyC Sports • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/10003df43502634612255e3cac8cf2d0.png",AR: TyC SPORT PLAY 1
-http://monstertv.live:8080/21205195/56418338/1043680
-#EXTINF:-1 tvg-id="1409" tvg-name="TyC Sports • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/10003df43502634612255e3cac8cf2d0.png",AR: TyC SPORT PLAY 3
-http://monstertv.live:8080/21205195/56418338/1043681
-#EXTINF:-1 tvg-id="1409" tvg-name="TyC Sports • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/10003df43502634612255e3cac8cf2d0.png",AR: TyC SPORT PLAY 4
-http://monstertv.live:8080/21205195/56418338/1043682
-#EXTINF:-1 tvg-id="1409" tvg-name="TyC Sports • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/10003df43502634612255e3cac8cf2d0.png",AR: TyC SPORT PLAY 6
-http://monstertv.live:8080/21205195/56418338/1043683
-#EXTINF:-1 tvg-id="1409" tvg-name="TyC Sports • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/10003df43502634612255e3cac8cf2d0.png",AR: TyC Sports HD
-http://monstertv.live:8080/21205195/56418338/1043684
-#EXTINF:-1 tvg-id="1409" tvg-name="TyC Sports • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/10003df43502634612255e3cac8cf2d0.png",AR: TyC Sports Internacional HD
-http://monstertv.live:8080/21205195/56418338/1043685
-#EXTINF:-1 tvg-id="1409" tvg-name="TyC Sports • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/10003df43502634612255e3cac8cf2d0.png",AR: TyC SPORTS PLAY
-http://monstertv.live:8080/21205195/56418338/1043686
-#EXTINF:-1 tvg-id="1409" tvg-name="TyC Sports • Argentina" tvg-logo="http://xplatinmedia.com:8080/images/10003df43502634612255e3cac8cf2d0.png",AR: TyC Sports SD
-http://monstertv.live:8080/21205195/56418338/1043687
-#EXTINF:-1 tvg-id="" tvg-name="AR: Volver SD" tvg-logo="https://www.ipuntotv.com/IMAGES/Volver-logo-nuevo-2016.png",AR: Volver SD
-http://monstertv.live:8080/21205195/56418338/1043688
+
+#EXTINF:-1 tvg-name="SBT Feed 1",SBT Feed 1
+https://sbtnews.maissbt.com/1.m3u8
+
+#EXTINF:-1 tvg-name="SBT Feed 2",SBT Feed 2
+https://sbtnews.maissbt.com/2.m3u8
+
+#EXTINF:-1 tvg-name="SBT News",SBT News
+https://sbtnews.maissbt.com/3.m3u8
+
+#EXTINF:-1 tvg-name="SBT Feed 4",SBT Feed 4
+https://sbtnews.maissbt.com/4.m3u8
+
+#EXTINF:-1 tvg-name="SBT Feed 5",SBT Feed 5
+https://sbtnews.maissbt.com/5.m3u8
