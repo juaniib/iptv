@@ -14,3 +14,6 @@ https://sbtnews.maissbt.com/4.m3u8
 
 #EXTINF:-1 tvg-name="SBT Feed 5",SBT Feed 5
 https://sbtnews.maissbt.com/5.m3u8
+
+#EXTINF:-1 tvg-name="SBT", SBT
+https://sbt.maissbt.com/3.m3u8
