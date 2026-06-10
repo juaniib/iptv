@@ -4,7 +4,7 @@
 https://sbtnews.maissbt.com/1.m3u8
 
 #EXTINF:-1 tvg-name="SBT Feed 2",SBT Feed 2
-https://sbtnews.maissbt.com/2.m3u8
+https://sbt.maissbt.com/1.m3u8
 
 #EXTINF:-1 tvg-name="SBT News",SBT News
 https://sbtnews.maissbt.com/3.m3u8
@@ -16,4 +16,4 @@ https://sbtnews.maissbt.com/4.m3u8
 https://sbtnews.maissbt.com/5.m3u8
 
 #EXTINF:-1 tvg-name="SBT",SBT
-https://sbt.maissbt.com/3.m3u8
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
