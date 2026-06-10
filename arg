@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://impeditor.com/epg/capanueve/capanueve"
 
-#EXTINF:-1 tvg-name="SBT Feed 1",SBT Feed 1
-https://sbtnews.maissbt.com/1.m3u8
+#EXTINF:-1 tvg-name="SporTV",SporTV
+http://191.37.250.169:8801/live/SPORTVHD/720p.m3u8
 
 #EXTINF:-1 tvg-name="SBT Feed 2",SBT Feed 2
 https://sbt.maissbt.com/1.m3u8
